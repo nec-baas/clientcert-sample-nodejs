@@ -1,0 +1,15 @@
+'use strict';
+module.exports = {
+    'NebulaConfig': {
+        'tenant':  '',
+        'appId':   '',
+        'appKey':  '',
+        'baseUri': 'https://localhost:8443/api/'
+    },
+    'proxyHost' : null,
+    'proxyPort' : 8080,
+    'clientCert' : 'xxxxx/your-client.pfx',
+    'clientCertPassword' : '',
+    'trustedCaCert' : 'xxxxx/your-cacert.pem',
+    'objectBucketName' : 'ClientCertSampleBucket'
+};
