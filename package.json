@@ -1,9 +1,9 @@
 {
-  "version": "7.0.0",
+  "version": "7.5.0",
   "description": "NEC Mobile Backend Platform, JavaScript client certificate authentication sample",
   "author": "NEC Coporation",
   "license": "MIT",
   "dependencies": {
-    "@nec-baas/jssdk": "^7.0.0"
+    "@nec-baas/jssdk": "^7.5.0"
   }
 }
